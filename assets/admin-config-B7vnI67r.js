@@ -1,0 +1,2 @@
+function e(){return`deepaknerella99@gmail.com`?.trim().toLowerCase()??``}var t=[`microntest4@gmail.com`];function n(t){if(!t)return!1;let n=e();return n?t.trim().toLowerCase()===n:!1}function r(e){return e?t.includes(e.trim().toLowerCase()):!1}function i(e){return n(e)||r(e)}function a(e){return n(e)}export{n as i,a as n,i as r,e as t};
+//# sourceMappingURL=admin-config-B7vnI67r.js.map
