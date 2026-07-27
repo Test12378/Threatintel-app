@@ -1,2 +1,0 @@
-import{n as e}from"./rolldown-runtime-S-ySWqyJ.js";import{t}from"./data-DK6QOjSI.js";import{t as n}from"./runtime-config-CkMTJoMI.js";var r=e({supabase:()=>a}),i=n(),a=t(i.supabaseUrl,i.supabasePublishableKey,{auth:{storage:localStorage,persistSession:!0,autoRefreshToken:!0}});export{a as n,r as t};
-//# sourceMappingURL=client-DPNlarHa.js.map
