@@ -1,1 +1,0 @@
-import{r as e}from"./rolldown-runtime-S-ySWqyJ.js";import{_ as t}from"./charts-BAw3Nsqw.js";import{t as n}from"./index-BLPLvLeh.js";var r=e(t(),1);function i(e){(0,r.useEffect)(()=>{let t=()=>{e()};return window.addEventListener(n,t),()=>window.removeEventListener(n,t)},[e])}export{i as t};
