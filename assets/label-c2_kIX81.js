@@ -1,2 +1,0 @@
-import{r as e}from"./rolldown-runtime-S-ySWqyJ.js";import{_ as t}from"./charts-BAw3Nsqw.js";import{P as n}from"./vendor-BtYksd_O.js";import{c as r}from"./data-DK6QOjSI.js";import{a as i}from"./ui-BtL52157.js";import{Q as a}from"./index-DTRtJqvT.js";var o=e(t(),1),s=r(),c=n(`text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70`),l=o.forwardRef(({className:e,...t},n)=>(0,s.jsx)(i,{ref:n,className:a(c(),e),...t}));l.displayName=i.displayName;export{l as t};
-//# sourceMappingURL=label-c2_kIX81.js.map
